@@ -1,0 +1,54 @@
+Quality = 10, Stage = 3
+PSNR = 27.82, PSNR-B = 27.51, SSIM = 0.8189
+Quality = 10, Stage = 2
+PSNR = 27.75, PSNR-B = 27.46, SSIM = 0.8174
+Quality = 10, Stage = 1
+PSNR = 27.60, PSNR-B = 27.32, SSIM = 0.8143
+Quality = 20, Stage = 3
+PSNR = 30.15, PSNR-B = 29.64, SSIM = 0.8836
+Quality = 20, Stage = 2
+PSNR = 30.10, PSNR-B = 29.61, SSIM = 0.8827
+Quality = 20, Stage = 1
+PSNR = 29.97, PSNR-B = 29.49, SSIM = 0.8807
+Quality = 30, Stage = 3
+PSNR = 31.49, PSNR-B = 30.89, SSIM = 0.9097
+Quality = 30, Stage = 2
+PSNR = 31.44, PSNR-B = 30.86, SSIM = 0.9091
+Quality = 30, Stage = 1
+PSNR = 31.31, PSNR-B = 30.74, SSIM = 0.9075
+Quality = 40, Stage = 3
+PSNR = 32.40, PSNR-B = 31.75, SSIM = 0.9242
+Quality = 40, Stage = 2
+PSNR = 32.35, PSNR-B = 31.71, SSIM = 0.9236
+Quality = 40, Stage = 1
+PSNR = 32.22, PSNR-B = 31.58, SSIM = 0.9222
+Quality = 50, Stage = 3
+PSNR = 33.14, PSNR-B = 32.44, SSIM = 0.9341
+Quality = 50, Stage = 2
+PSNR = 33.09, PSNR-B = 32.40, SSIM = 0.9336
+Quality = 50, Stage = 1
+PSNR = 32.95, PSNR-B = 32.27, SSIM = 0.9324
+Quality = 60, Stage = 3
+PSNR = 33.87, PSNR-B = 33.14, SSIM = 0.9423
+Quality = 60, Stage = 2
+PSNR = 33.82, PSNR-B = 33.10, SSIM = 0.9419
+Quality = 60, Stage = 1
+PSNR = 33.69, PSNR-B = 32.96, SSIM = 0.9408
+Quality = 70, Stage = 3
+PSNR = 34.83, PSNR-B = 34.10, SSIM = 0.9517
+Quality = 70, Stage = 2
+PSNR = 34.78, PSNR-B = 34.05, SSIM = 0.9514
+Quality = 70, Stage = 1
+PSNR = 34.65, PSNR-B = 33.91, SSIM = 0.9505
+Quality = 80, Stage = 3
+PSNR = 36.18, PSNR-B = 35.49, SSIM = 0.9622
+Quality = 80, Stage = 2
+PSNR = 36.14, PSNR-B = 35.43, SSIM = 0.9620
+Quality = 80, Stage = 1
+PSNR = 36.01, PSNR-B = 35.31, SSIM = 0.9613
+Quality = 90, Stage = 3
+PSNR = 38.55, PSNR-B = 37.97, SSIM = 0.9755
+Quality = 90, Stage = 2
+PSNR = 38.51, PSNR-B = 37.91, SSIM = 0.9754
+Quality = 90, Stage = 1
+PSNR = 38.38, PSNR-B = 37.83, SSIM = 0.9750
