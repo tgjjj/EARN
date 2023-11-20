@@ -46,7 +46,7 @@ python Train_Y.py
 ```
 according to your dataset type (color or gray).
 
-References
+### References
 Please cite our paper if the repository helps you.
 ```txt
 Teng, G., Jiang, R., Liu, X. et al. EARN: toward efficient and robust JPEG compression artifact reduction. Vis Comput (2023). https://doi.org/10.1007/s00371-023-03008-4
